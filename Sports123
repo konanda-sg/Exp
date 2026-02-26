@@ -1,31 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1,Arena Premium 1
-http://169.150.223.25/ArenaPremium1HD/index.m3u8
-#EXTINF:-1,Arena Premium 2
-http://169.150.223.25/ArenaPremium2HD/index.m3u8
-#EXTINF:-1,Arena Premium 3
-http://169.150.223.25/ArenaPremium3HD/index.m3u8
-#EXTINF:-1,Arena Sports 1
-http://169.150.223.25/ArenaSport1HD/index.m3u8
-#EXTINF:-1,Arena Sports 2
-http://169.150.223.25/ArenaSport2HD/index.m3u8
-#EXTINF:-1,Arena Sports 3
-http://169.150.223.25/ArenaSport3HD/index.m3u8
-#EXTINF:-1,Arena Sports 4
-http://169.150.223.25/ArenaSport4HD/index.m3u8
-#EXTINF:-1,Arena Sports 5
-http://169.150.223.25/ArenaSport5HD/index.m3u8
-#EXTINF:-1,Arena Sports 6
-http://169.150.223.25/ArenaSport6HD/index.m3u8
-#EXTINF:-1,Arena Sports 7
-http://169.150.223.25/ArenaSport7HD/index.m3u8
-#EXTINF:-1,Arena Sports 8
-http://169.150.223.25/ArenaSport8HD/index.m3u8
-#EXTINF:-1,Arena Sports 9
-http://169.150.223.25/ArenaSport9HD/index.m3u8
-#EXTINF:-1,Arena Sports 10
-http://169.150.223.25/ArenaSport10HD/index.m3u8
+#EXTINF:-1,Willow Cricket
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/31131/index.m3u8
+#EXTINF:-1,Premier Sports 1
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/6555/index.m3u8
+#EXTINF:-1,Premier Sports 2
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/2069/index.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/9334/index.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/7335/index.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/9258/index.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/7343/index.m3u8
+#EXTINF:-1,Sky Sports Main Event
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/9308/index.m3u8
+#EXTINF:-1,Sky Sports Main Event
+http://nkhwvlfz.ottclub.xyz/iptv/MHG766HMYBABXR/7337/index.m3u8
 #EXTINF:-1,TNT Sports 1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6566/index.m3u8
 #EXTINF:-1,TNT Sports 2
